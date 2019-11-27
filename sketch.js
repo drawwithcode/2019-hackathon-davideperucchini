@@ -70,7 +70,7 @@ function draw() {
   textAlign(CENTER, CENTER);
   textSize(20);
   fill(color("white"));
-  text("Tap on Giorgino's head to play the TG1 tune. Tap again to stop the audio", 0, windowHeight/3);
+  text("Tap to play the TG1 tune. Tap again to stop it", 0, windowHeight/3);
   pop();
 }
 
